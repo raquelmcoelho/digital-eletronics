@@ -1,5 +1,5 @@
-# Two's Compliment - Project 1
-This circuit has a toggle who shows a normal binary number or it's two's complement
+# Seven-segment display - Project 2
+This circuit transform a binary number in a decimal number throught 7 led segments
 
 ## Truth Table
 ![Truth Table](images/truth-table.jpeg)
@@ -11,6 +11,6 @@ This circuit has a toggle who shows a normal binary number or it's two's complem
 ![Formula](images/formulas.jpeg)
 
 ## Digital Eletronic Circuits
-The toggle is named X and the other buttons are the input for the binary number
+These buttons are the input to the two binary numbers, one that represents the decimal and the other the unit.
 
 ![Digital Eletronic Circuits](images/circuit.jpeg)
