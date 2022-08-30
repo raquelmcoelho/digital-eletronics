@@ -1,4 +1,4 @@
-# Two's Compliment - Project 1
+# Adder-Subtractor - Project 3
 This circuit has a toggle who adds or subtracts the two binary numbers.
 The MSB order is bottom-up where the first one means the binary number sign. 
 
