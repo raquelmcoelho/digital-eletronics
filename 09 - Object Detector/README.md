@@ -1,16 +1,17 @@
 # Object Detector - Project 9
-This circuit has a toggle who shows a normal binary number or it's two's complement
+This circuit can detect and count objects passing by it, through two sensors. The sensors are zero activated.
 
-## Truth Table
-![Truth Table](images/truth-table.jpeg)
+## None sensors where activated
+![Digital Eletronic Circuits](images/1-none-sensor.jpeg)
 
-## Karnaught Map
-![Karnaught Map](images/karnaugh-map.jpeg)
+## Only sensor A is activated
+![Digital Eletronic Circuits](images/2-sensor-a.jpeg)
 
-## Formula Simplification
-![Formula](images/formulas.jpeg)
+## Both sensors where activated
+![Digital Eletronic Circuits](images/3-both-sensors.jpeg)
 
-## Digital Eletronic Circuits
-The toggle is named X and the other buttons are the input for the binary number
+## Only sensor B where activated
+![Digital Eletronic Circuits](images/4-sensor-b.jpeg)
 
-![Digital Eletronic Circuits](images/circuit.jpeg)
+## Count object that just passed through
+![Digital Eletronic Circuits](images/5-none-again-count.jpeg)
