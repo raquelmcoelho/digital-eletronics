@@ -1,5 +1,5 @@
-# Seven-segment display - Project 2
-This circuit transform a binary number in a decimal number throught 7 led segments
+# Object Detector - Project 9
+This circuit has a toggle who shows a normal binary number or it's two's complement
 
 ## Truth Table
 ![Truth Table](images/truth-table.jpeg)
@@ -11,6 +11,6 @@ This circuit transform a binary number in a decimal number throught 7 led segmen
 ![Formula](images/formulas.jpeg)
 
 ## Digital Eletronic Circuits
-These buttons are the input to the two binary numbers, one that represents the decimal and the other the unit.
+The toggle is named X and the other buttons are the input for the binary number
 
 ![Digital Eletronic Circuits](images/circuit.jpeg)
