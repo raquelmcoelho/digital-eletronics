@@ -1,16 +1,14 @@
-# Two's Compliment - Project 1
-This circuit has a toggle who shows a normal binary number or it's two's complement
+# Digital Ruler - Project 8
+This circuit measure the distance in inches or centimeters through a sonar echo.
 
-## Truth Table
-![Truth Table](images/truth-table.jpeg)
+## Setup the Circuit
+![Setup](images/setup.jpeg)
+## Centimeter Digital Eletronic Circuits
+The toggle determine if the measuring is gonna be with centimeters if it's setup to 0.
 
-## Karnaught Map
-![Karnaught Map](images/karnaugh-map.jpeg)
+![Digital Eletronic Circuits](images/cm-circuit.jpeg)
 
-## Formula Simplification
-![Formula](images/formulas.jpeg)
+## Inches Digital Eletronic Circuits
+The toggle determine if the measuring is gonna be with inches if it's setup to 1.
 
-## Digital Eletronic Circuits
-The toggle is named X and the other buttons are the input for the binary number
-
-![Digital Eletronic Circuits](images/circuit.jpeg)
+![Digital Eletronic Circuits](images/inch-circuit.jpeg)
